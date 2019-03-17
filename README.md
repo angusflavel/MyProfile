@@ -13,8 +13,15 @@ GitHub. (2019). lukalabs/cakechat. [online] Available at: https://github.com/luk
 
 Hexagon, C. (2019). What is Consumer Sentiment Analysis? | Crimson Hexagon. [online] Crimsonhexagon.com. Available at: https://www.crimsonhexagon.com/blog/what-is-sentiment-analysis/ [Accessed 17 Mar. 2019].
 
+HTML5 UP. (2019). Solid State by HTML5 UP. [online] Available at: https://html5up.net/solid-state [Accessed 17 Mar. 2019].
+
 replika.ai. (2019). Replika. [online] Available at: https://replika.ai/ [Accessed 17 Mar. 2019].
 
 TechRepublic. (2019). How 68% of consumers are already using AI without knowing it. [online] Available at: https://www.techrepublic.com/article/how-68-of-consumers-are-already-using-ai-without-knowing-it/ [Accessed 17 Mar. 2019].
 
 Theinkblot.com. (2019). Online Rorschach Test. [online] Available at: http://theinkblot.com [Accessed 17 Mar. 2019].
+
+
+
+
+
