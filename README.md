@@ -1,5 +1,5 @@
 # MyProfile
-My first website - IIT Assignment 1
+IIT Assignment 1
 
 References
 16personalities.com. (2019). Free personality test, type descriptions, relationship and career advice | 16Personalities. [online] Available at: https://www.16personalities.com/ [Accessed 17 Mar. 2019].
